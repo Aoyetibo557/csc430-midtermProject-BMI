@@ -1,0 +1,11 @@
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\bin\Debug\BMI_Calc.exe.config
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\bin\Debug\BMI_Calc.exe
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\bin\Debug\BMI_Calc.pdb
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\obj\Debug\BMI_Calc.Properties.Resources.resources
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\obj\Debug\BMI_Calc.csproj.GenerateResource.cache
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\obj\Debug\BMI_Calc.csproj.CoreCompileInputs.cache
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\obj\Debug\BMI_Calc.exe
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\obj\Debug\BMI_Calc.pdb
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\obj\Debug\BMI_Calc.BmiOutput.resources
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\obj\Debug\BMI_Calc.csprojAssemblyReference.cache
+C:\Users\aoyet\Desktop\C++ Files\CSC 430\midterm\BMI_Calc\obj\Debug\BMI_Calc.BMI_Window.resources
