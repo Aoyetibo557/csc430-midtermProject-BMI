@@ -41,7 +41,7 @@ namespace BMI_Calc
 
             lst = new BMI(name, feet, inches, weight, bmi);
             this.bMIBindingSource.Add(lst);
-
+                          
              //this.bMIBindingSource.DataSource = _peopleList.AddToBmiList(feet, inches, weight, name, bmi);
         }
         private void bMIBindingSource_CurrentChanged(object sender, EventArgs e)
