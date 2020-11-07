@@ -28,7 +28,7 @@ namespace BMI_Calc
         {
             //calling the list
             this.bMIBindingSource.DataSource = _peopleList.GetBmiList(textBox1.Text);
-            //addNewBmi();
+            addNewBmi();
         }
 
         private void addNewBmi()
