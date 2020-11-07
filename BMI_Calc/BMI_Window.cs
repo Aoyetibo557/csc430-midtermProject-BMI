@@ -20,6 +20,7 @@ namespace BMI_Calc
         public static double setBmi;
 
         private PeopleBmi _plpList = new PeopleBmi();
+
         public BMI_Window()
         {
             InitializeComponent();
@@ -107,6 +108,12 @@ namespace BMI_Calc
 
                     BmiOutput frm2 = new BmiOutput();
                     frm2.Show();
+
+                    int feet = Int32.Parse(BMI_Window.setNewFeet);
+                    int inches = Int32.Parse(BMI_Window.setNewInches);
+                    int weight = Int32.Parse(BMI_Window.setNewWeight);
+                    string name = BMI_Window.setNewName;
+                    double bmi = BMI_Window.setBmi;
                 }
 
                 else

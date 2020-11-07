@@ -28,7 +28,7 @@ namespace BMI_Calc
         {
             //calling the list
             this.bMIBindingSource.DataSource = _peopleList.GetBmiList(textBox1.Text);
-            addNewBmi();
+            //addNewBmi();
         }
 
         private void addNewBmi()
@@ -40,10 +40,9 @@ namespace BMI_Calc
             double bmi = BMI_Window.setBmi;
 
             lst = new BMI(name, feet, inches, weight, bmi);
+            this.bMIBindingSource.Add(lst);
 
-            //Adding new Items to the list
-            //this.bMIBindingSource.DataSource = _peopleList.AddToBmiList(feet, inches, weight, name, bmi);
-             this.bMIBindingSource.DataSource = _peopleList.AddToBmiList(feet, inches, weight, name, bmi);
+             //this.bMIBindingSource.DataSource = _peopleList.AddToBmiList(feet, inches, weight, name, bmi);
         }
         private void bMIBindingSource_CurrentChanged(object sender, EventArgs e)
         {
